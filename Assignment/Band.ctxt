@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nm\ a
+comment0.target=Band(java.lang.String,\ int)
+comment1.params=n
+comment1.target=Band(int)
+comment2.params=
+comment2.target=java.lang.String\ getAlbum()
+comment3.params=x
+comment3.target=void\ changeAlbum(java.lang.String)
+comment4.params=one\ two\ three
+comment4.target=RecordCompany\ testQuestion(RecordCompany,\ RecordCompany,\ Band)
+numComments=5
